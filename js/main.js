@@ -312,7 +312,7 @@
 
 	function makeTimer() {
 
-		var endTime = new Date("20 Februari 2021 11:00:00 GMT+07:00");			
+		var endTime = new Date("20 February 2021 11:00:00 GMT+07:00");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
